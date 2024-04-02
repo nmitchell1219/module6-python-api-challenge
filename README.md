@@ -1,4 +1,4 @@
-# python-api-challenge
+# Python API Challenge
 
 This project explores weather patterns across over 500 cities worldwide, analyzing the impact of proximity to the equator on climate variables. Using the OpenWeatherMap API and citipy library. 
 
